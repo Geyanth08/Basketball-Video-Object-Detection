@@ -18,7 +18,7 @@ An end-to-end vision pipeline to detect basketball entities (players, referees, 
 ├── create_subset.py                   # Create smaller dataset for debugging
 ├── requirements.txt                   # Python dependencies
 └── README.md                          # Project documentation
-
+```
 ## 🚀 Features
 
 - 🎥 **Extracts high-quality video frames**  
